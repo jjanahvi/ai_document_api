@@ -163,4 +163,3 @@ streamlit run ui/app.py
 - **Frontend calls API over HTTP** — clean separation, could swap frontend independently
 
 ---
-*Part of an Applied AI Engineer portfolio.*

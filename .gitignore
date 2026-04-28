@@ -17,8 +17,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+chroma_db
 
 # LangChain / uploads / misc
 data/
 *.db
-*.log
+*.logc
